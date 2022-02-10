@@ -1,0 +1,10 @@
+name: Card-Matching
+version: ${project.version}
+main: minigameworlds.cardmatching.Main
+api-version: 1.16
+
+commands:
+  cm:
+    description: cm
+    usage: /cm
+    aliases: [cm, card, cardmatching]
